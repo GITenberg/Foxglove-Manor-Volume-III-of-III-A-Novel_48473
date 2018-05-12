@@ -1,10 +1,16 @@
 _repo: Foxglove-Manor-Volume-III-of-III-A-Novel_48473
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Buchanan, Robert W.
     gutenberg_agent_id: '44813'
     url: http://www.gutenberg.org/2009/agents/44813
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48473#Foxglove-Manor-Volume-III-of-III-A-Novel
 gutenberg_issued: '2015-03-12'
 gutenberg_type: Text
 identifiers:
